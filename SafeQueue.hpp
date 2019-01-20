@@ -1,6 +1,6 @@
 /*
  * SafeQueue.hpp
- * Copyright (C) 2013 Alfredo Pons Menargues <alfredo.pons@gmail.com>
+ * Copyright (C) 2019 Alfredo Pons Menargues <apons@linucleus.com>
  *
  * This program is free software: you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
